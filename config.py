@@ -1,0 +1,4 @@
+MONGO_URL="localhost"
+MONGO_DB="DNXK_COMMENT_页"
+MONGO_TABLE="TABLE"
+
